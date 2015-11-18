@@ -1,6 +1,6 @@
 # Fusion Table Searchable Map Template
 
-[See the working demo &raquo;](http://stachoet.github.io/FusionTable-Map-Template/)
+[See the working demo &raquo;](http://IFMA.github.io/FusionTable-Map-Template/)
 
 ## Copyright and attribution
 
